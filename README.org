@@ -1,0 +1,24 @@
+#+TITLE: tLRS
+#+AUTHOR: Jason Lewis
+#+EMAIL: jason@decomplecting.org
+
+** About
+
+tLRS is an attempt to create a (temporary) Learning Record Store for potentially
+offline (mobile) xAPI Activity Providers. Currently targeting the Android
+platform.
+
+** Status
+I literally just started coding this, but contributions are welcome.
+
+** License
+
+Open source version available under the GNU GPL, text in the =LICENSE= file
+in this directory.
+
+Non-free version will be available, eventually;
+for non-free-software usage contact jason@decomplecting.org
+
+** Copyright
+
+Copyright (c) 2016 Jason Lewis.
